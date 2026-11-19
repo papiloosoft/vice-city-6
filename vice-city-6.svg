@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="220" viewBox="0 0 900 220">
+  <defs>
+    <linearGradient id="pinkGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ff2d95"/>
+      <stop offset="50%" stop-color="#ff5ec4"/>
+      <stop offset="100%" stop-color="#00e5ff"/>
+    </linearGradient>
+
+    <filter id="neonGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="900" height="220" fill="#ffffff"/>
+
+  <text
+    x="450"
+    y="135"
+    text-anchor="middle"
+    font-family="Arial Black, Arial, sans-serif"
+    font-size="96"
+    font-weight="900"
+    letter-spacing="-2"
+    fill="url(#pinkGradient)"
+    filter="url(#neonGlow)"
+  >
+    Vice City 6
+  </text>
+</svg>
