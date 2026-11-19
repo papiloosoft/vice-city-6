@@ -14,7 +14,7 @@
 
 <div align="center">
   <a href="https://papiloosoft.github.io/vice-city-6/">
-    <img src="https://img.shields.io/badge/⬇_DOWNLOAD-8BFFB0?style=for-the-badge&labelColor=10131A" alt="Download">
+    <img src="https://img.shields.io/badge/🌐_PLAY_DEMO-8BFFB0?style=for-the-badge&labelColor=10131A" alt="Live Demo">
   </a>
 </div>
 
